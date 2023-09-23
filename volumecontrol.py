@@ -1,5 +1,5 @@
 import cv2
-import .HandTrackinMod as htm
+import .HandDetectMod as htm
 import numpy as np
 import time, math
 from ctypes import cast, POINTER
